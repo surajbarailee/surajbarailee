@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajbarailee
-- 👀 I’m interested in python,django,JS,React,Node and anything related to cybersecurity...
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Python, Django, JS,React,Node and things related to pentesting...
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source or anything on which I can be helpful
 - 📫 You can reach out to me in  [LinkedIn](https://www.linkedin.com/in/surajbarailee/)
 

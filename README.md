@@ -7,9 +7,18 @@
 
 
 - 📚 Books I have gone through
+   **2024**
+     BOOKS
+    -  Tuesdays with Morrie (Mitch Albom)
+      
+     SERIES
+     -  
+   
+
+
 
     **2024**
-    -  Tuesdays with Morrie (Mitch Albom)
+     BOOKS
     -  Mata ko ghar (Sanjay Bista)
     -  Eleanor & Park (Rainbow Rowell)
     -  Five People you meet in heaven (Mitch Albom)
@@ -20,9 +29,11 @@
     -  Aithan (Bikek Ojha)
   
 
-- 🎥 I'm watching
-  -  Suits  
-  -  House M.D.
+     SERIES
+     -  Suits  
+     -  House M.D.
+     -  Squid Games
+     -  Demon Slayer
 
 
 

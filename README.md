@@ -1,39 +1,31 @@
-- 👋 Hi, I’m @surajbarailee
-- 👀 I’m interested in Python and Javascript
-- 🌱 I’m currently learning Nest JS
-- 💞️ I’m looking to collaborate on open source or anything on which I can be helpful
-- 📫 You can reach out to me in  [LinkedIn](https://www.linkedin.com/in/surajbarailee/)
 
+# About Me
+👋 Hi, I'm @surajbarailee  
+👀 Interested in Python and Javascript  
+🌱 Currently learning Nest JS  
+💞️ Looking to collaborate on open source projects  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/surajbarailee/)
 
+## 2025
+### Books
+- Tuesdays with Morrie (Mitch Albom)
 
-- 📚 Books I have gone through
-   **2024**
-     BOOKS
-    -  Tuesdays with Morrie (Mitch Albom)
-      
-     SERIES
-     -  
-   
+### Series
+*No entries yet*
 
+## 2024
+### Books
+- Mata ko ghar (Sanjay Bista)
+- Eleanor & Park (Rainbow Rowell)
+- Five People you meet in heaven (Mitch Albom)
+- The stranger in the lifeboat (Mitch Albom)
+- Around the world in eighty days (Jules Verne)
+- Usle diyeko Umer (Budhisagar)
+- Thangra (Pragati Rai)
+- Aithan (Bikek Ojha)
 
-
-    **2024**
-     BOOKS
-    -  Mata ko ghar (Sanjay Bista)
-    -  Eleanor & Park (Rainbow Rowell)
-    -  Five People you meet in heaven (Mitch Albom)
-    -  The stranger in the lifeboat (Mitch Albom)
-    -  Around the world in eighty days (Jules Verne)
-    -  Usle diyeko Umer (Budhisagar)
-    -  Thangra (Pragati Rai)
-    -  Aithan (Bikek Ojha)
-  
-
-     SERIES
-     -  Suits  
-     -  House M.D.
-     -  Squid Games
-     -  Demon Slayer
-
-
-
+### Series
+- Suits
+- House M.D.
+- Squid Games
+- Demon Slayer

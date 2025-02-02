@@ -9,9 +9,12 @@
 ## 2025
 ### Books
 - Tuesdays with Morrie (Mitch Albom)
+- The little Liar (Mitch Albom)
 
 ### Series
-*No entries yet*
+- Hunter X Hunter
+- Jujutsu Kaisen
+
 
 ## 2024
 ### Books

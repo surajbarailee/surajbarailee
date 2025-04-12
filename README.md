@@ -10,6 +10,7 @@
 ### Books
 - Tuesdays with Morrie (Mitch Albom)
 - The little Liar (Mitch Albom)
+- And the Mountains Echoed (Khaled Hosseini)
 
 ### Series
 - Hunter X Hunter

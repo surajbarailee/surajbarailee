@@ -8,11 +8,14 @@
 
 ## 2025
 ### Books
+- Maktub (Paulo Coelho)
 - Tuesdays with Morrie (Mitch Albom)
 - The little Liar (Mitch Albom)
 - And the Mountains Echoed (Khaled Hosseini)
+  
 
 ### Series
+- Dupahiya
 - Hunter X Hunter
 - Jujutsu Kaisen
 

@@ -15,6 +15,8 @@
   
 
 ### Series
+- Black Mirror
+- The Midnight Mass
 - Dupahiya
 - Hunter X Hunter
 - Jujutsu Kaisen

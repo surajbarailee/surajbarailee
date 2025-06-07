@@ -15,6 +15,7 @@
   
 
 ### Series
+- The Gardener
 - Black Mirror
 - The Midnight Mass
 - Dupahiya

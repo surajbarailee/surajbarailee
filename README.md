@@ -15,6 +15,7 @@
   
 
 ### Series
+- Jamnapaar (Season 1)
 - The Gardener
 - Black Mirror
 - The Midnight Mass

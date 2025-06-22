@@ -16,7 +16,7 @@
 
 ### Series
 - Behind her eyes
-- Jamnapaar (Season 1)
+- Jamnapaar
 - The Gardener
 - Black Mirror
 - The Midnight Mass

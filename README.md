@@ -15,6 +15,7 @@
   
 
 ### Series
+- Mandala Murders
 - Behind her eyes
 - Alice in Borderland
 - Jamnapaar

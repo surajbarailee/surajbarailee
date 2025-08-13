@@ -9,12 +9,14 @@
 ## 2025
 ### Books
 - Maktub (Paulo Coelho)
+- The seven moons of Maali Almeida (Shehan Karunatilaka)
 - Tuesdays with Morrie (Mitch Albom)
 - The little Liar (Mitch Albom)
 - And the Mountains Echoed (Khaled Hosseini)
   
 
 ### Series
+- The Sandman
 - Mandala Murders
 - Behind her eyes
 - Alice in Borderland

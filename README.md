@@ -16,6 +16,7 @@
   
 
 ### Series
+- The Residence
 - The Sandman
 - Mandala Murders
 - Behind her eyes

@@ -8,8 +8,8 @@
 
 ## 2025
 ### Books
-- Maktub (Paulo Coelho)
 - Have a little faith (Mitch Albom)
+- Maktub (Paulo Coelho)
 - The seven moons of Maali Almeida (Shehan Karunatilaka)
 - Tuesdays with Morrie (Mitch Albom)
 - The little Liar (Mitch Albom)

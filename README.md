@@ -8,6 +8,7 @@
 
 ## 2025
 ### Books
+- For one more day (Mitch Albom)
 - Have a little faith (Mitch Albom)
 - Maktub (Paulo Coelho)
 - The seven moons of Maali Almeida (Shehan Karunatilaka)
@@ -17,6 +18,7 @@
   
 
 ### Series
+- Wednesday
 - The Residence
 - The Sandman
 - Mandala Murders

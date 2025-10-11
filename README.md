@@ -18,6 +18,10 @@
   
 
 ### Series
+- The Fall of the House of Usher
+- The Bads of Bollywood
+- Alice in Borderland S3
+- Dead Boy Detectives
 - Wednesday
 - The Residence
 - The Sandman

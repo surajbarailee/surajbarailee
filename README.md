@@ -18,6 +18,7 @@
   
 
 ### Series
+- Superstore
 - The Fall of the House of Usher
 - The Bads of Bollywood
 - Alice in Borderland S3
